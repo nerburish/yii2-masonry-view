@@ -38,6 +38,7 @@ Exemple:
 
 We have this model:
 
+```
 class MyModel extends \yii\base\Theme
 {
 	public $id;
@@ -46,14 +47,18 @@ class MyModel extends \yii\base\Theme
 	
 	public $description;
 }
+```
 
 And this item template named _item.php:
 
+```
 <h3><?= $model->title ?></h3>
 <p><?= $model->description ?></p>
+```
 
 Then in our view, we run the widget:
 
+```
 <?php echo \nerburish\masonryview\MasonryView::widget([
 	'dataProvider' => $dataProvider,
 	'itemView' => '_item',
@@ -64,9 +69,11 @@ Then in our view, we run the widget:
 		"@web/css/masonry-demo.css"		
 	]
 ]) ?>
+```
 
 The css used for the demo:
 
+```
 /* ---- grid ---- */
 .grid {
   box-sizing: border-box;
@@ -88,7 +95,7 @@ The css used for the demo:
   background: #e4e4e4;
   border-radius: 5px;
 }
-
+```
 
 
 
