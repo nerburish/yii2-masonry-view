@@ -1,0 +1,24 @@
+{
+    "name": "nerburish/yii2-masonry-view",
+    "description": "ListView widget improved to use Masonry (http://masonry.desandro.com/)",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","masonry","dataprovider","listview","view","widget"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nerburish",
+            "email": "nerburish@hotmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "require-dev": {
+		"nerburish/yii2-masonry-asset": "dev-master"
+    },	
+    "autoload": {
+        "psr-4": {
+            "nerburish\\masonryview\\": ""
+        }
+    }
+}
