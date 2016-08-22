@@ -14,7 +14,7 @@
         "yiisoft/yii2": "*"
     },
     "require-dev": {
-		"nerburish/yii2-masonry-asset": "dev-master"
+	"nerburish/yii2-masonry-asset": "dev-master"
     },	
     "autoload": {
         "psr-4": {
