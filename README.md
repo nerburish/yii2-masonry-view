@@ -72,6 +72,10 @@ Then in our view, we run the widget:
 ]) ?>
 ```
 
+![masonry-view-demo](https://cloud.githubusercontent.com/assets/5610788/17868085/7fc5279a-68ad-11e6-92ff-963f4781d4a8.png)
+
+
+
 The css used for the demo:
 
 ```
