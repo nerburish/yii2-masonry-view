@@ -34,7 +34,8 @@ In clientOptions you can pass the Masonry options to modify the plugin behavior 
 
 You can also attach a cssFile for styling the grid.
 
-Exemple:
+Exemple
+-----
 
 We have this model:
 
