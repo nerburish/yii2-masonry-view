@@ -1,7 +1,10 @@
 Yii2 Masonry ListView Widget
 ======================
 
-ListView widget improved to use as Masonry (http://masonry.desandro.com/)
+Yii2 widget to extend the Yii2 ListView for use it as Masonry grid layout (http://masonry.desandro.com/)
+
+Widget demo screenshot:
+![masonry-view-demo](https://cloud.githubusercontent.com/assets/5610788/17868085/7fc5279a-68ad-11e6-92ff-963f4781d4a8.png)
 
 Installation
 ------------
@@ -71,10 +74,6 @@ Then in our view, we run the widget:
 	]
 ]) ?>
 ```
-
-The result will be like this:
-![masonry-view-demo](https://cloud.githubusercontent.com/assets/5610788/17868085/7fc5279a-68ad-11e6-92ff-963f4781d4a8.png)
-
 
 Below, the css used for the demo:
 
