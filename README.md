@@ -60,7 +60,7 @@ And this item template named _item.php:
 <p><?= $model->description ?></p>
 ```
 
-Then in our view, we run the widget:
+Finally, in our view, we run the widget:
 
 ```
 <?php echo \nerburish\masonryview\MasonryView::widget([
