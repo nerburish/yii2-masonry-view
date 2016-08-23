@@ -101,7 +101,8 @@ Below, the css used for the demo:
 }
 ```
 
-
+You may also be interested in MatchHeight.js ListView widget:
+https://github.com/nerburish/yii2-masonry-view
 
 
  
