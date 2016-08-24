@@ -11,11 +11,9 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "nerburish/yii2-masonry-asset": "dev-master"
     },
-    "require-dev": {
-	"nerburish/yii2-masonry-asset": "dev-master"
-    },	
     "autoload": {
         "psr-4": {
             "nerburish\\masonryview\\": ""
