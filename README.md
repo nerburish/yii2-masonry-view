@@ -101,7 +101,10 @@ Below, the css used for the demo:
 }
 ```
 
-You may also be interested in MatchHeight.js ListView widget:
+You may be interested in Isotope Widget because implements Masonry and other layouts and funcionalities at once.
+https://github.com/nerburish/yii2-isotope-view
+
+There is also a MatchHeight.js implementation of ListView widget:
 https://github.com/nerburish/yii2-match-height-view
 
 
