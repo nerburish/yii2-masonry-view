@@ -12,7 +12,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "nerburish/yii2-masonry-asset": "*"
+        "nerburish/yii2-masonry-asset": "^1.0.0"
     },
     "autoload": {
         "psr-4": {
