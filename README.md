@@ -43,7 +43,7 @@ Exemple
 We have this model:
 
 ```
-class MyModel extends \yii\base\Theme
+class MyModel extends \yii\base\Model
 {
 	public $id;
 	
